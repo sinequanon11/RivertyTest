@@ -5,7 +5,7 @@ Feature: Testing the Shops Feature
     When User goes to Riverty "homepage"
     Then User accepts all cookies
 
-  Scenario: Testing the Riverty Shops Feature
+  Scenario: TC-4 Testing the Riverty Shops Feature
     When User clicks Shops
     And User clicks Autovermietung
     And User clicks the result
